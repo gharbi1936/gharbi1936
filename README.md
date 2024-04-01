@@ -20,6 +20,10 @@
   </samp>
 </div>
 
+![GHARBI ABDELAZIZ's GitHub stats](https://github-readme-stats.vercel.app/api/?username=gharbi1936&show_owner)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gharbi1936&langs_count=10&hide=javascript,html,php,python)
+
 <div>
   <p>
     <h2 align="center">Latest Contribution</h2>
@@ -29,14 +33,7 @@
   </p>
 </div>
 
-![GHARBI ABDELAZIZ's GitHub stats](https://github-readme-stats.vercel.app/api/?username=gharbi1936&show_owner)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gharbi1936&langs_count=10&hide=javascript,html,php,python)
-
 ### 🛠 Recent Projects
-
 #### 🎗 Community-driven
-
 #### 📖 Personal learning
-
 ### 🖋 Medium Articles
