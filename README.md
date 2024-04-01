@@ -20,13 +20,14 @@
   </samp>
 </div>
 
-<summary>Latest Activity Graph 📈</summary>
+<div>
   <p>
-  <h2 align="center">Latest Contribution</h2>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="Azzar's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=gharbi1936&theme=github-compact&hide_border=true">
-  </a>
+    <h2 align="center">Latest Contribution</h2>
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+      <img alt="Azzar's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=gharbi1936&theme=github-compact&hide_border=true">
+    </a>
   </p>
+</div>
 
 ![GHARBI ABDELAZIZ's GitHub stats](https://github-readme-stats.vercel.app/api/?username=gharbi1936&show_owner)
 
