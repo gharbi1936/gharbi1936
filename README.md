@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![GHARBI ABDELAZIZ's GitHub stats](https://github-readme-stats.vercel.app/api/?username=gharbi1936&show_owner)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gharbi1936&repo=student-list&show_owner=true)](https://github.com/gharbi1936/student-list)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gharbi1936&repo=course-materials&show_owner=true)](https://github.com/gharbi1936/course-materials)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gharbi1936&repo=ic-webapp&show_owner=true)](https://github.com/gharbi1936/ic-webapp)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gharbi1936&langs_count=10&hide=javascript,html,php,python)
