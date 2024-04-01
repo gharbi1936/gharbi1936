@@ -18,6 +18,11 @@ Here are some ideas to get you started:
   width="120" height="24"/>
 </p>
 
+<p align="center">
+  <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="250" height="160" />
+</p>
+
+
 ![GHARBI ABDELAZIZ's GitHub stats](https://github-readme-stats.vercel.app/api/?username=gharbi1936&show_owner)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gharbi1936&langs_count=10&hide=javascript,html,php,python)
