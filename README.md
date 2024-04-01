@@ -2,7 +2,7 @@
 <details>
 <div>
   <samp>
-    <p align="center">
+    <p align="left">
       <img src="https://komarev.com/ghpvc/?username=gharbi1936&color=blue&style=liquid" 
            alt="azzar" height="30"/>
 
