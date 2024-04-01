@@ -4,6 +4,10 @@
     <p align="left">
       <img src="https://komarev.com/ghpvc/?username=gharbi1936&color=blue&style=liquid" 
            alt="azzar" height="30"/>
+      <a href="https://wa.me/+21628315310" target="_blank">
+        <img src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
+           alt="azzar" height="30">
+      </a>
       <a href="https://www.linkedin.com/in/gharbi-a-9b5474162/" target="_blank">
         <img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
            alt="azzar" height="30"/>
@@ -12,10 +16,6 @@
            alt="azzar" height="30"/>
       <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"
            alt="azzar" height="30"/>
-      <a href="https://wa.me/+21628315310" target="_blank">
-        <img src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
-           alt="azzar" height="30">
-      </a>
     </p>
   </samp>
 </div>
