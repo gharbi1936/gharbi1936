@@ -1,4 +1,5 @@
 <h2 align="center">Hi there, I'm GHARBI ABDELAZIZ </h2>
+<details>
 <div>
   <samp>
     <p align="center">
@@ -18,11 +19,12 @@
 
       <a href="https://wa.me/+21628315310" target="_blank">
         <img src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
-             alt="azzar" height="30">
+            alt="azzar" height="30">
       </a>
     </p>
   </samp>
 </div>
+</details>
 
 ![GHARBI ABDELAZIZ's GitHub stats](https://github-readme-stats.vercel.app/api/?username=gharbi1936&show_owner)
 
