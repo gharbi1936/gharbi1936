@@ -22,7 +22,7 @@
 
 ![GHARBI ABDELAZIZ's GitHub stats](https://github-readme-stats.vercel.app/api/?username=gharbi1936&show_owner)
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/brunobritodev?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/gharbi1936?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gharbi1936&langs_count=10&hide=javascript,html,php,python)
 
