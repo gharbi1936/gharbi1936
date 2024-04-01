@@ -12,9 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi there <img width="20" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm GHARBI ABDELAZIZ </h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gharbi1936&color=blue&style=liquid" 
+  width="120" height="24"/>
+</p>
 
 ![GHARBI ABDELAZIZ's GitHub stats](https://github-readme-stats.vercel.app/api/?username=gharbi1936&show_owner)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gharbi1936&langs_count=10&hide=javascript,html,php,python)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gharbi1936&label=Profile%20views&color=0e75b6&style=flat" alt="GHARBI ABDELAZIZ" /> </p>
